@@ -1,0 +1,12 @@
+{
+  "name": "Github Issue Number First",
+  "description": "Moves the issue number to the start of the browser title.",
+  "version": "1",
+  "manifest_version": 2,
+  "content_scripts": [
+    {
+      "matches": ["https://github.com/*/*/issues/*"],
+      "js": ["main.js"]
+    }
+  ]
+}
