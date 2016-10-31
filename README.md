@@ -5,7 +5,7 @@ Moves the issue number to the start of the browser title on Github issue pages.
 
 To install:
 
-* Download this repository as a .zip file.
+* [Download this repository as a .zip file.](https://github.com/danielsamuels/github-issue-title/archive/master.zip)
 * Extract the .zip file.
 * Open up chrome://extensions/
 * Tick 'Developer mode' (top right).
